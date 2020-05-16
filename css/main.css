@@ -1,0 +1,10 @@
+body {
+    background: #225b8a;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh; /*Esto es para marcar la altura de la pantalla (Se lee 100% del alto de la pantalla)*/
+    margin: 0;
+}
